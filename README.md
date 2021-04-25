@@ -1,1 +1,1 @@
-# Article-2. Initial commit
+# The "Article-2" Project
